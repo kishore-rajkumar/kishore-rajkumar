@@ -11,13 +11,15 @@ I'm passionate about designing and building scalable, maintainable serverless sy
 - **DevOps:** CI/CD, GitHub Actions, Jenkins
 
 ## 🚀 Featured Projects
+
 - [Real-time Ecommerce Price Tracker (Python, Serverless)](https://github.com/kishore-rajkumar/real-time-ecommerce-price-tracker) — price alerts, history, API
 - [AWS Spring Boot Lambda DynamoDB Task Manager API (Java)](https://github.com/kishore-rajkumar/aws-springboot-lambda-dynamodb-task-manager-api) — serverless task API
+- [Expense Tracker Serverless Python](https://github.com/kishore-rajkumar/expense-tracker-serverless-python) — AWS serverless expense tracking with Cognito, DynamoDB, Lambda
 - [Springboot-Lambda (Java)](https://github.com/kishore-rajkumar/springboot-lambda)
 - [AWS Lambda Spring Boot Product Service (Java)](https://github.com/kishore-rajkumar/aws-lambda-springboot-product-service)
 - [Serverless Image Processing & Sharing Platform (AWS CAPSTONE)](https://github.com/kishore-rajkumar/aws.ccp.CAPSTONE.Serverless-Image-Processing-and-Sharing-Platform)
 - [K8s Online Bookstore Microservices](https://github.com/kishore-rajkumar/k8s-onlinebookstore-orders-microservice)
-- - [Expense Tracker Serverless Python](https://github.com/kishore-rajkumar/expense-tracker-serverless-python) — AWS serverless expense tracking with Cognito, DynamoDB, Lambda
+
 
 ## 📜 Certifications
 - AWS Certified Cloud Practitioner (Foundational)
