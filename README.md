@@ -17,6 +17,7 @@ I'm passionate about designing and building scalable, maintainable serverless sy
 - [AWS Lambda Spring Boot Product Service (Java)](https://github.com/kishore-rajkumar/aws-lambda-springboot-product-service)
 - [Serverless Image Processing & Sharing Platform (AWS CAPSTONE)](https://github.com/kishore-rajkumar/aws.ccp.CAPSTONE.Serverless-Image-Processing-and-Sharing-Platform)
 - [K8s Online Bookstore Microservices](https://github.com/kishore-rajkumar/k8s-onlinebookstore-orders-microservice)
+- - [Expense Tracker Serverless Python](https://github.com/kishore-rajkumar/expense-tracker-serverless-python) — AWS serverless expense tracking with Cognito, DynamoDB, Lambda
 
 ## 📜 Certifications
 - AWS Certified Cloud Practitioner (Foundational)
